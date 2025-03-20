@@ -29,7 +29,8 @@ B) Build with Visual Studio:
     - Open the Developer build of Codewalker from the Codewalker github, in Visual Studio, then Build Codewalker, reach out to Codewalker support for help with this
     - Select all the build files, [mine built here: `.\CodeWalker\CodeWalker\bin\Debug\net48`]
     - Copy all the files to your Codewalker directory.
-4. Open Codewalker, set location to your GTA5E Game Directory.
+4. Open Codewalker and set location to your GTA5E Game Directory.
+
 
 # ArciveFix:
 1. Download ArchiveFix for GTA V: https://github.com/dedanab/ArchiveFix-for-GTA
