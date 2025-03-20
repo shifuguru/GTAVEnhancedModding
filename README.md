@@ -22,10 +22,13 @@
 # CodeWalker Installation:
 1. Visual Studio 2022 installed.
 2. Latest public Codewalker installed.
-3. Open the Developer build of Codewalker from the Codewalker github, in Visual Studio, then Build Codewalker, reach out to Codewalker support for help with this
-4. Select all the build files, [mine built here: `.\CodeWalker\CodeWalker\bin\Debug\net48`]
-5. Copy all the files to your Codewalker directory.
-6. Open Codewalker, set location to your GTA5E Game Directory.
+3.
+A) Download from the Codewalker Discord Channel: https://discord.com/channels/329138547833700352/351357358460370944
+B) Build with Visual Studio:
+- Open the Developer build of Codewalker from the Codewalker github, in Visual Studio, then Build Codewalker, reach out to Codewalker support for help with this
+- Select all the build files, [mine built here: `.\CodeWalker\CodeWalker\bin\Debug\net48`]
+- Copy all the files to your Codewalker directory.
+4. Open Codewalker, set location to your GTA5E Game Directory.
 
 # ArciveFix:
 1. Download ArchiveFix for GTA V: https://github.com/dedanab/ArchiveFix-for-GTA
