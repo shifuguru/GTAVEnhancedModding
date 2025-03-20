@@ -54,7 +54,7 @@ To load mods, as of March 2025, you need to sign each edited .rpf file before co
 # Second Test: Editing Files
 [Once you've achieved this, modding will be easier to understand and you can start doing it on your own]
 1. Using **Codewalker**, go to: `./mods/update/update.rpf/common/data/handling.meta`.
-2. You can choose to replace the whole file from a handling mod such as **DriveV**, or edit it for yourself.
+2. You can choose to replace the whole file from a handling mod such as **https://github.com/shifuguru/HandlingV**, or edit it for yourself.
 3. Using **File Explorer**, go to: `./mods/update/update.rpf`.
 4. Drag the **update.rpf** file to the **ArchiveFix** shortcut.
 5. Open the Game.
