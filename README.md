@@ -22,7 +22,7 @@
 # CodeWalker Installation:
 1. Visual Studio 2022 installed.
 2. Latest public Codewalker installed.
-3.
+3. Codewalker installation:
 A) Download from the Codewalker Discord Channel:<br>
 https://discord.com/channels/329138547833700352/351357358460370944<br><br>
 B) Build with Visual Studio:
