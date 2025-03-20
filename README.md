@@ -13,7 +13,7 @@
 `-skipPatcherCheck`
 3. Create a new folder called `mods` in the GTA5E directory
 4. Copy the `rpf.cache` file included in this repo to the `mods` folder
-5. Copy `dsound.dll` to the GTA5E directory
+5. Copy `dsound.dll` from Ultimate ASI Loader to the GTA5E directory
 6. Create a new text file called `Global.ini` file in GTA5E directory with contents:<br>
   `[FileLoader]`<br>
   `OverloadFromFolder=mods`
