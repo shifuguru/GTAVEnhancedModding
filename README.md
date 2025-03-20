@@ -58,3 +58,7 @@ To load mods, as of March 2025, you need to sign each edited .rpf file before co
 3. Using **File Explorer**, go to: `./mods/update/update.rpf`.
 4. Drag the **update.rpf** file to the **ArchiveFix** shortcut.
 5. Open the Game.
+
+
+# Third Test: DLCPACKS
+[Instructions coming soon(TM)]
