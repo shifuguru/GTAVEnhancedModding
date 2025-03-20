@@ -1,4 +1,4 @@
-# GTAVEnhancedModding
+# GTA V Enhanced Modding Tutorial
 
 # Legend / Key:
 - GTA5E = Grand Theft Auto V Enhanced
@@ -59,9 +59,3 @@ We will call the parent .rpf file the 'outer' .rpf, and any sub .rpf files as 'i
 3. Using **File Explorer**, go to: `./mods/update/update.rpf`.
 4. Drag the **update.rpf** file to the **ArchiveFix** shortcut.
 5. Open the Game.
-
-
-
-
-
-
