@@ -65,5 +65,25 @@ To load mods, as of March 2025, you need to sign each edited .rpf file before co
 5. Open the Game.
 
 
-# Third Test: DLCPACKS
-[Instructions coming soon(TM)]
+# Third Test: Migrating dlcpacks
+[Codewalker - Legacy Setup]
+1. Create a copy of Codewalker
+2. Feel free to rename the Codewalker folders to - LEGACY, and - ENHANCED for easier management.
+3. Open the Codewalker - Legacy app.
+4. Set File > Game Configuration... to GTA 5 Legacy directory.
+4. Migrate/Copy your chosen dlcpack from Legacy to Enhanced, recommend copying the dlcpack.
+
+[Updating .yft, .ycd, .ytd etc. files from Legacy to Enhanced]
+1. Tip: create folders for exported filetypes to manage the .xml files easier.
+2. Export the files as .xml from Codewalker - Legacy to recommended folders.
+3. Import .xml files back to the dlcpack vehicles.rpf using Codewalker - Enhanced
+- Tip: Once you have imported desired files ensure they open correctly
+4. Export vehicles.rpf from dlcpack
+5. Drag n Drop vehicles.rpf on ArchiveFix.exe
+6. Import vehicles.rpf back to the dlcpack using Codewalker - Enhanced
+7. In Codewalker check the .rpf is signed "NG", not "Open" or "None/No"
+8. Repeat the process for the parent dlc.rpf
+9. Add dlcpack to dlclist.xml in update.rpf the standard way:
+- e.g. <Item>dlcpacks:/dlcpack_name/</Item>
+10. Repeat the signing process for update.rpf
+11. Launch Game
