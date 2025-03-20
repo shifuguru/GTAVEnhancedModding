@@ -35,7 +35,6 @@
 # Important Info:
 To load mods, as of March 2025, you need to sign each edited .rpf file before copying to the game.
 # This means that for each .rpf you edit, you must sign that .rpf before the game will launch successfully.
-We will call the parent .rpf file the 'outer' .rpf, and any sub .rpf files as 'inner' .rpf files.
 
 
 # First Test:
