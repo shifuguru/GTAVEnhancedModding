@@ -6,7 +6,7 @@
 
 # Setup:
 1. Clean and legitimate copy of Grand Theft Auto V Enhanced
-2. Create a new folder called `mods` in the GTA5E directory
+2. Create a new folder called `mods` in the Game Directory
 3. Copy the file `rpf.cache.disable` included in this repo to the Game Directory.
 4. [Install OpenRPF](https://www.gta5-mods.com/tools/openrpf-openiv-asi-for-gta-v-enhanced)
 5. [Install ScriptHookV](https://dev-c.com/gtav/scripthookv/)
