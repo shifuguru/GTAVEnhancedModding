@@ -1,6 +1,6 @@
 # GTA V Enhanced Modding Tutorial - [OUTDATED]
 
-Keeping this tutorial online for future reference.
+Keeping this tutorial online for future reference. The new method no longer requires signing each .rpf file you edit, so this method is no longer recommended, as ScriptHookV was updated 22nd March 2025, as well as OpenRPF - a new replacement for OpenIV.asi
 
 # Legend / Key:
 - GTA5E = Grand Theft Auto V Enhanced
