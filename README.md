@@ -1,4 +1,4 @@
-# GTA V Enhanced Modding Tutorial
+# GTA V Enhanced Modding Tutorial - [OUTDATED]
 
 # Legend / Key:
 - GTA5E = Grand Theft Auto V Enhanced
