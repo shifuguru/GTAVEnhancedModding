@@ -1,5 +1,7 @@
 # GTA V Enhanced Modding Tutorial - [OUTDATED]
 
+Keeping this tutorial online for future reference.
+
 # Legend / Key:
 - GTA5E = Grand Theft Auto V Enhanced
 - Mods folder = "./Grand Theft Auto V Enhanced/mods"
