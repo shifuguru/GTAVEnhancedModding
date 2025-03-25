@@ -46,11 +46,6 @@
 2. Export the files as .xml from Codewalker - Legacy to recommended folders.
 3. Import .xml files back to the dlcpack vehicles.rpf using Codewalker - Enhanced
 - Tip: Once you have imported desired files ensure they open correctly
-4. Export vehicles.rpf from dlcpack
-5. Drag n Drop vehicles.rpf on ArchiveFix.exe
-6. Import vehicles.rpf back to the dlcpack using Codewalker - Enhanced
-7. In Codewalker check the .rpf is signed "NG", not "Open" or "None/No"
-8. Repeat the process for the parent dlc.rpf
-9. Add dlcpack to dlclist.xml in update.rpf the standard way: - e.g. <Item>dlcpacks:/dlcpack_name/</Item>
-10. Repeat the signing process for update.rpf
-11. Launch Game
+4. Add dlcpack to dlclist.xml in update.rpf the standard way: - e.g. <Item>dlcpacks:/dlcpack_name/</Item>
+5. Repeat the signing process for update.rpf
+6. Launch Game
