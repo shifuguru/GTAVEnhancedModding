@@ -50,10 +50,12 @@
 
 
 # Updating .yft, .ycd, .ytd etc. files from Legacy to Enhanced
-1. Tip: create folders for exported filetypes to manage the .xml files easier.
-2. Export the files as .xml from Codewalker - Legacy to recommended folders.
-3. Import .xml files back to the dlcpack vehicles.rpf using Codewalker - Enhanced
-- Tip: Once you have imported desired files ensure they open correctly
+1. Tip: create folders for exported filetypes to manage the files easier.
+2. Export the files as .xml from Codewalker (Legacy).
+3. Import .xml files back to the dlcpack vehicles.rpf using Codewalker (Enhanced).
+- Tip: Once you have imported desired files ensure they open correctly.
 4. Add dlcpack to dlclist.xml in update.rpf the standard way: - e.g. <Item>dlcpacks:/dlcpack_name/</Item>
 5. Repeat the signing process for update.rpf
 6. Launch Game
+
+You can also try using the Asset Converter in Codewalker.
