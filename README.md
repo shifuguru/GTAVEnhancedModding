@@ -40,6 +40,14 @@
 4. Set File > Game Configuration... to GTA 5 Legacy directory.
 4. Migrate/Copy your chosen dlcpack from Legacy to Enhanced, recommend copying the dlcpack.
 
+# Fixing Textures and vehicles crashing:
+[ Thanks to @CP for this step ]
+1. Open texture dictionary (.ytd) and find script_rt_* texture
+2. Go to Details tab:
+3. [G9_Flags: 2490920]
+4. [format: D3DFMT_A8R8G8B8 ]
+5. [G9_Format: B8G8R8A8_UNORM]
+
 
 # Updating .yft, .ycd, .ytd etc. files from Legacy to Enhanced
 1. Tip: create folders for exported filetypes to manage the .xml files easier.
