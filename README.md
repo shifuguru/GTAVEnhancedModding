@@ -41,6 +41,7 @@
 4. Migrate/Copy your chosen dlcpack from Legacy to Enhanced, recommend copying the dlcpack.
 
 # Fixing Textures and vehicles crashing:
+[Edit: These instructions are now outdated, you can use the Asset Converter tool in Codewalker to convert vehicle files now]
 [ Thanks to @CP for this step ]
 1. Open texture dictionary (.ytd) and find script_rt_* texture
 2. Go to Details tab:
